@@ -1,2 +1,2 @@
 # CMake-Default
-A basic CMake template for Windows
+A basic CMake template for Windows.
